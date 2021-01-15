@@ -1,0 +1,1 @@
+https://github.com/cynikolai/Sequence-Cluster-Learner/blob/master/wordsList.npy

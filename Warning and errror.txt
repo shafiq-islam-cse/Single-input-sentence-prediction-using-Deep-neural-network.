@@ -1,0 +1,13 @@
+WARNING:tensorflow:From D:/My Spyder/0 toxic comments classification/SentencePredic/SentencePredic.py:16: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+WARNING:tensorflow:From D:/My Spyder/0 toxic comments classification/SentencePredic/SentencePredic.py:18: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+WARNING:tensorflow:
+The TensorFlow contrib module will not be included in TensorFlow 2.0.
+
+
+
+ERROR:
+1.
+
+ValueError: Can't load save_path when it is None.
